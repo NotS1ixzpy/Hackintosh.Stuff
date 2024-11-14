@@ -1,0 +1,9 @@
+Laptop Acer Aspire 5742
+CPU: Intel Core i5-480M (Arrandale) (macOS Current Last Supported)
+GPU: Intel HD Graphics (Arrandale) (macOS 10.13.6 Last Supported)
+RAM: 6 Gigs Of DDR3 SODIMM (Supported)
+CHIPSET: Intel Ibex Peak HM55 (Supported)
+AUDIO CARD: Realtek ALC272 (Supported)
+BLUETOOTH CARD: Broadcom BCM943224 (Supported)
+WI-FI CARD: Broadcom BCM43225 (Supported)
+ETHERNET CARD: Broadcom NetLink BCM57780 (Supported)
